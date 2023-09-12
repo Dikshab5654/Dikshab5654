@@ -23,12 +23,9 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshab5654&layout=compact&show_icon=true&theme=algolia" alt="Dikshab5654-lang"/>
 <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Dikshab5654&layout=compact&show_icon=true&theme=algolia" alt="Dikshab5654-"/> -->
 </div>
-<div align="center">
-
+<!-- <div align="center">
   <a>![Github streak][github-streak]</a>
-
-</div>
-
+</div>-->
 
 ## 🙋‍♂️ Let's Connect
 [![Gmail][gmail-shield]][gmail-url]
