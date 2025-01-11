@@ -66,3 +66,10 @@
 [github-shield]: https://img.shields.io/badge/-Diksha%20Bargali-black?style=flat&logo=github
 [gfg-shield]: https://img.shields.io/badge/-Diksha%20Bargali-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks
 [github-url]: https://github.com/Dikshab5654
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dikshab5654&show_icons=true&locale=en&layout=compact" alt="Dikshab5654" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dikshab5654&show_icons=true&locale=en" alt="Dikshab5654" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dikshab5654&" alt="Dikshab5654" /></p>
