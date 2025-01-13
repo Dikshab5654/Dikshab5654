@@ -72,4 +72,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dikshab5654&show_icons=true&locale=en" alt="Dikshab5654" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dikshab5654&" alt="Dikshab5654" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=Dikshab5654" & alt="Dikshab5654" /></p>
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
